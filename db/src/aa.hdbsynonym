@@ -1,0 +1,8 @@
+{
+  "TTT.db::Synonym_0": {
+    "target": {
+      "object": "SCOTT",
+      "schema": "TIGER"
+    }
+  }
+}

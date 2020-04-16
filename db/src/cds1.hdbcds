@@ -1,0 +1,11 @@
+namespace TTT.db;
+
+context cds1 {
+};
+
+/*@@layout{"layoutInfo":{"x":-264,"y":-61.5}}*/
+entity TB {
+    key elem_1 : String(10);
+        elem_2 : String(10);
+        elem_3 : String(10);
+};
